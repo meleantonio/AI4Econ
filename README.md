@@ -3,10 +3,9 @@
 This is a set of AI resources for Economics.
 
 ## General
-<details>
-  <summary>Prompt Engineering</summary>
-  
-  
+
+### Prompt Engineering
+
 
 [Prompt Engineering Guide (promptingguide.ai)](https://www.promptingguide.ai/ "https://www.promptingguide.ai/")
 
@@ -18,7 +17,7 @@ This is a set of AI resources for Economics.
 
 [microsoft/prompts-for-edu (github.com)](https://github.com/microsoft/prompts-for-edu "https://github.com/microsoft/prompts-for-edu")
 
-</details>
+
 
 
 
