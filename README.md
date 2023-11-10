@@ -4,8 +4,11 @@ This is a set of AI resources for Economics.
 
 ## General
 
-### Prompt Engineering
+### General Tools
 
+[Supertools (therundown.ai)](https://supertools.therundown.ai/)
+
+### Prompt Engineering
 
 [Prompt Engineering Guide (promptingguide.ai)](https://www.promptingguide.ai/ "https://www.promptingguide.ai/")
 
@@ -16,10 +19,6 @@ This is a set of AI resources for Economics.
 [DLAI - Learning Platform (deeplearning.ai)](https://learn.deeplearning.ai/ "https://learn.deeplearning.ai/")
 
 [microsoft/prompts-for-edu (github.com)](https://github.com/microsoft/prompts-for-edu "https://github.com/microsoft/prompts-for-edu")
-
-
-
-
 
 ### Ethics
 
