@@ -7,7 +7,7 @@ assignees: meleantonio
 
 ---
 
-## Type (tool? resource? new section?)
+## Type (tool? resource? new section? something else?)
 
 
 ## Name
@@ -17,3 +17,6 @@ assignees: meleantonio
 
 
 ## Is it free or paid?
+
+
+## Description:
